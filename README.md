@@ -6,21 +6,30 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-## Introduction
+## Introduction to API3 for Eth Zurich hackers 
 
 Zürich is one of the last European cities that hasn't had a major Ethereum focused event despite its clear importance and the fact it’s a home to numerous blockchain & Ethereum startups.
 
 API3 is happy to be delivering a bounty challenge as part of the weekend, and welcome hackers to participate in the challenge whilst learning more about first-party oracles! 
 
+If you haven't already, make sure to familairize yourself with the Ethereum Zurich hacker manuel: https://zurich.utxo.foundation/#hackathon-themes
+
 ### Understanding API3
 
 [API3]() is a collaborative project to deliver traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO]().
 
-### dAPIs - API3 Datafeeds
+First-party oracles are 
+
+### API3 Datafeeds
 
 API3 uses first-party oracles to power [dAPIs](). dAPIs are secure, transparent, and cost-efficient data feeds that connect smart contracts directly to first-party data sources.
 
-Self-funded dAPIs give DeFi builders access to real-time market data through first-party oracles on 10 networks
+Self-funded dAPIs give DeFi builders access to real-time market data through on 10 networks and 11 testnets. 
+
+- [Getting started with dAPIs]()
+
+
+
 
 ### Airnode - API3's First-party Oracle Solution
 
@@ -33,7 +42,6 @@ API3 QRNG is a public utility we provide with the courtesy of Australian Nationa
 ## Getting Started
 
 - [API3 Docs]()
-- [Getting started with dAPIs]()
 - [Getting started with Airnode]()
 - [Getting started with QRNG]()
 - [Using dAPIs in a Payments dApp]()
