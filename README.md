@@ -8,7 +8,7 @@
 
 ## Introduction to API3 for Eth Zurich hackers 
 
-Zürich is one of the last European cities that hasn't had a major Ethereum focused event despite its clear importance and the fact it’s a home to numerous blockchain & Ethereum startups.
+Zürich is one of the last European cities that hasn't had a major Ethereum focused event despite its clear importance within the Ethereum 
 
 API3 is happy to be delivering a bounty challenge as part of the weekend, and welcome hackers to participate in the challenge whilst learning more about first-party oracles! 
 
@@ -18,7 +18,9 @@ If you haven't already, make sure to familairize yourself with the Ethereum Zuri
 
 [API3]() is a collaborative project to deliver traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO]().
 
-First-party oracles are 
+An Airnode is a first-party oracle that pushes off-chain API data to your on-chain contract. Airnode is a serverless function that lets API providers easily run their own oracle nodes. That way, they can provide data to any on-chain dApp that's interested in their services without an intermediary.
+
+- [Getting started with Airnode]()
 
 ### API3 Datafeeds
 
@@ -27,13 +29,7 @@ API3 uses first-party oracles to power [dAPIs](). dAPIs are secure, transparent,
 Self-funded dAPIs give DeFi builders access to real-time market data through on 10 networks and 11 testnets. 
 
 - [Getting started with dAPIs]()
-
-
-
-
-### Airnode - API3's First-party Oracle Solution
-
-An Airnode is a first-party oracle that pushes off-chain API data to your on-chain contract. Airnode lets API providers easily run their own oracle nodes. That way, they can provide data to any on-chain dApp that's interested in their services, all without an intermediary.
+- [API3 Market]()
 
 ### QRNG - API3's Quantum Random Number Generator
 
@@ -42,7 +38,6 @@ API3 QRNG is a public utility we provide with the courtesy of Australian Nationa
 ## Getting Started
 
 - [API3 Docs]()
-- [Getting started with Airnode]()
 - [Getting started with QRNG]()
 - [Using dAPIs in a Payments dApp]()
 - [Using QRNG in a Lottery dApp]()
