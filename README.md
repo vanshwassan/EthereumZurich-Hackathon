@@ -8,9 +8,11 @@
 
 ## Introduction
 
-<< hackathon intro bit >>
+Zürich is one of the last European cities that hasn't had a major Ethereum focused event despite its clear importance and the fact it’s a home to numerous blockchain & Ethereum startups.
 
-### API3
+API3 is happy to be delivering a bounty challenge as part of the weekend, and welcome hackers to participate in the challenge whilst learning more about first-party oracles! 
+
+### Understanding API3
 
 [API3]() is a collaborative project to deliver traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO]().
 
