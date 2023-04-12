@@ -14,6 +14,10 @@ API3 is happy to be delivering a bounty challenge as part of the weekend, and we
 
 If you haven't already, make sure to familairize yourself with the Ethereum Zurich hacker manuel: https://zurich.utxo.foundation/#hackathon-themes
 
+### API3 Community
+
+Join the API3 Discord and head to dev-support for any technical questions 
+
 ### Understanding API3
 
 [API3]() is a collaborative project to deliver traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO]().
@@ -44,7 +48,7 @@ API3 QRNG is a public utility we provide with the courtesy of Australian Nationa
 - [Github]()
 - [Medium]()
 
-## Hackathon Challenge
+# Hackathon Challenge 
 
 Participants are free to build a decentralized application that demonstrates the use of API3’s first-party oracles.
 
