@@ -3,8 +3,6 @@
 ## Using API3's First-party Oracles to power DeFi Applications
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Introduction to API3 for Eth Zurich hackers 
 
@@ -12,28 +10,28 @@ Zürich is one of the last European cities that hasn't had a major Ethereum focu
 
 API3 is happy to be delivering a bounty challenge as part of the weekend, and welcome hackers to participate in the challenge whilst learning more about first-party oracles! 
 
-If you haven't already, make sure to familairize yourself with the Ethereum Zurich hacker manuel: https://zurich.utxo.foundation/#hackathon-themes
+If you haven't already, make sure to familairize yourself with the Ethereum Zurich hacker manual: https://zurich.utxo.foundation/#hackathon-themes
 
 ### API3 Community
 
-Join the API3 Discord and head to dev-support for any technical questions 
+Join the API3 Discord and head to dev-support for any technical questions.
 
 ### Understanding API3
 
-[API3]() is a collaborative project to deliver traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO]().
+[API3](https://api3.org/) is a collaborative project to deliver traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO](https://api3.org/dao).
 
 An Airnode is a first-party oracle that pushes off-chain API data to your on-chain contract. Airnode is a serverless function that lets API providers easily run their own oracle nodes. That way, they can provide data to any on-chain dApp that's interested in their services without an intermediary.
 
-- [Getting started with Airnode]()
+- [Getting started with Airnode](https://docs.api3.org/guides/airnode/calling-an-airnode/)
 
 ### API3 Datafeeds
 
-API3 uses first-party oracles to power [dAPIs](). dAPIs are secure, transparent, and cost-efficient data feeds that connect smart contracts directly to first-party data sources.
+API3 uses first-party oracles to power [dAPIs](https://docs.api3.org/explore/dapis/what-are-dapis.html). dAPIs are secure, transparent, and cost-efficient data feeds that connect smart contracts directly to first-party data sources.
 
 Self-funded dAPIs give DeFi builders access to real-time market data through on 10 networks and 11 testnets. 
 
-- [Getting started with dAPIs]()
-- [API3 Market]()
+- [Getting started with dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+- [API3 Market](https://market.api3.org/)
 
 ### QRNG - API3's Quantum Random Number Generator
 
@@ -41,12 +39,14 @@ API3 QRNG is a public utility we provide with the courtesy of Australian Nationa
 
 ## Getting Started
 
-- [API3 Docs]()
-- [Getting started with QRNG]()
+- [API3 Docs](https://docs.api3.org/)
+- [Getting started with Airnode](https://docs.api3.org/guides/airnode/calling-an-airnode/)
+- [Getting started with QRNG](https://docs.api3.org/guides/qrng/qrng-remix/)
+- [Getting started with Self-funded dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
 - [Using dAPIs in a Payments dApp]()
-- [Using QRNG in a Lottery dApp]()
-- [Github]()
-- [Medium]()
+- [Using QRNG in a Lottery dApp](https://docs.api3.org/guides/qrng/lottery-guide/)
+- [Github](https://github.com/api3dao/)
+- [Medium](https://medium.com/@api3)
 
 # Hackathon Challenge 
 
