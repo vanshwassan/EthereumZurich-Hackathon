@@ -1,10 +1,10 @@
 # EthereumZurich x API3: Upto $2000 in prizes!
 
-## Using API3's First-party Oracles to power DeFi Applications
+### Using API3's First-party Oracles to power zero-knowledge DeFi Applications 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Introduction to API3 for Eth Zurich hackers 
+### Introduction to API3 for Eth Zurich hackers 
 
 Zürich is one of the last European cities that hasn't had a major Ethereum focused event despite its clear importance within the Ethereum 
 
@@ -12,41 +12,51 @@ API3 is happy to be delivering a bounty challenge as part of the weekend, and we
 
 If you haven't already, make sure to familairize yourself with the Ethereum Zurich hacker manual: https://zurich.utxo.foundation/#hackathon-themes
 
-### API3 Community
+### API3 Builder Community
 
 Join the API3 Discord and head to dev-support for any technical questions.
 
+# API3 Datafeeds
+
 ### Understanding API3
 
-[API3](https://api3.org/) is a collaborative project to deliver traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO](https://api3.org/dao).
+[API3](https://api3.org/) is a collaborative project that delivers traditional API services to smart contract platforms in a decentralized and trust-minimized way. It is governed by a decentralized autonomous organization (DAO), namely the [API3 DAO](https://api3.org/dao).
 
-An Airnode is a first-party oracle that pushes off-chain API data to your on-chain contract. Airnode is a serverless function that lets API providers easily run their own oracle nodes. That way, they can provide data to any on-chain dApp that's interested in their services without an intermediary.
+- [API3 Docs](https://docs.api3.org/)
+- [Github](https://github.com/api3dao/)
+- [Medium](https://medium.com/@api3)
 
-- [Getting started with Airnode](https://docs.api3.org/guides/airnode/calling-an-airnode/)
+Airnode is a first-party oracle that pushes off-chain API data to an on-chain contract. Airnode is a serverless function that lets API providers easily run their own oracle nodes. That way, they can provide data to any on-chain dApp that's interested in their services without an intermediary.
 
-### API3 Datafeeds
+- [Learn more about first-party oracles](https://docs.api3.org/guides/airnode/calling-an-airnode/)
+
+### dAPIs: first-party data feeds 
 
 API3 uses first-party oracles to power [dAPIs](https://docs.api3.org/explore/dapis/what-are-dapis.html). dAPIs are secure, transparent, and cost-efficient data feeds that connect smart contracts directly to first-party data sources.
 
-Self-funded dAPIs give DeFi builders access to real-time market data through on 10 networks and 11 testnets. 
+Self-funded dAPIs give DeFi builders access to over **100 forex & crypto dAPIs that serve real-time market data** to 10 networks (and 11 testnets). 
 
-- [Getting started with dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+- [Getting started with API3 data feeds](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
 - [API3 Market](https://market.api3.org/)
 
-### QRNG - API3's Quantum Random Number Generator
+### API3 Demo Project: Payments dApp 
+
+This tutorial takes users through accessing and integrating dAPIs into a simple payments dApp. This quick start guide should take less than 30mins to follow. 
+
+- [Using dAPIs in a Payments dApp](https://github.com/vanshwassan/dAPI-payments)
+
+
+
+<!--### QRNG - API3's Quantum Random Number Generator
 
 API3 QRNG is a public utility we provide with the courtesy of Australian National University (ANU). It is powered by an Airnode hosted by ANU Quantum Random Numbers, meaning that it is a first-party service. It is served as a public good and is free of charge (apart from the gas costs), and it provides ‘true’ quantum randomness via an easy-to-use solution when requiring RNG on-chain.
 
-## Getting Started
+- [Using QRNG in a Lottery dApp](https://docs.api3.org/guides/qrng/lottery-guide/)-->
 
-- [API3 Docs](https://docs.api3.org/)
+<!--
 - [Getting started with Airnode](https://docs.api3.org/guides/airnode/calling-an-airnode/)
 - [Getting started with QRNG](https://docs.api3.org/guides/qrng/qrng-remix/)
-- [Getting started with Self-funded dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
-- [Using dAPIs in a Payments dApp]()
-- [Using QRNG in a Lottery dApp](https://docs.api3.org/guides/qrng/lottery-guide/)
-- [Github](https://github.com/api3dao/)
-- [Medium](https://medium.com/@api3)
+- [Getting started with Self-funded dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)-->
 
 # Hackathon Challenge 
 
