@@ -1,7 +1,5 @@
 # EthereumZurich x API3: Upto $2000 in prizes!
 
-### Using API3's First-party Oracles to power zero-knowledge DeFi Applications 
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ### Introduction to API3 for Eth Zurich hackers 
@@ -58,13 +56,15 @@ API3 QRNG is a public utility we provide with the courtesy of Australian Nationa
 - [Getting started with QRNG](https://docs.api3.org/guides/qrng/qrng-remix/)
 - [Getting started with Self-funded dAPIs](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)-->
 
-# Hackathon Challenge 
+# Hackathon Challenge: Using API3's First-party Oracles to power zero-knowledge DeFi Applications 
 
-Participants are free to build a decentralized application that demonstrates the use of API3’s first-party oracles.
+### Overview
 
-- Participants can build dApps that use dAPIs, Airnode, or QRNG that facilitate a proper use-case.
+We want builders to explore decentralized financial services that capitilize on the benefits of zero knowledge rollups. 
 
-- Participants are free to implement their own ideas.
+We are looking for participants to build applications that demonstrates the use of API3's self-funded dAPIs on Polygon zkEVM and zkSync testnets. 
+
+Outside of DeFi, we will also accept submissions from dApps that use Airnode or QRNG that facilitate a proper use-case. Participants are free to implement their own ideas.
 
 ### Potential Ideas
 
@@ -97,7 +97,7 @@ After judges complete the evaluations, the top 3 projects will be selected based
 |       Position       |     Prize    |
 |----------------------|--------------|
 |  First place winner  | $1000 USDC   |
-|   Second runner up   |   $500 USDC  |
-|   Third runner up    |   $200 USDC  |
+|   Second runner up   |   $750 USDC  |
+|   Third runner up    |   $250 USDC  |
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
