@@ -90,14 +90,15 @@ Participants may submit a maximum of 1 project by the hackathon deadline. After 
 
 - **BONUS** - Adding functionality to the Airnode protocol that will improve performance, interoperability, or further develop use cases.
 
-After judges complete the evaluations, the top 3 projects will be selected based on their weighted scores to receive prizes. Winners will be announced shortly after the hackathon ends.
+After judges complete the evaluations, the top 2 projects will be selected based on their weighted scores to receive prizes. Winners will be announced shortly after the hackathon ends.
 
 ## Prizes
 
 |       Position       |     Prize    |
 |----------------------|--------------|
-|  First place winner  | $1000 USDC   |
-|   Second runner up   |   $750 USDC  |
-|   Third runner up    |   $250 USDC  |
+|  First place winner  | $750 USDC   |
+|   Second runner up   |   $250 USDC  |
+|     |     |
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<!--
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)-->
