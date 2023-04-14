@@ -1,4 +1,4 @@
-# EthereumZurich x API3: Upto $2000 in prizes!
+# EthereumZurich x API3: Upto $1000 in prizes!
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -34,7 +34,12 @@ API3 uses first-party oracles to power [dAPIs](https://docs.api3.org/explore/dap
 
 Self-funded dAPIs give DeFi builders access to over **100 forex & crypto dAPIs that serve real-time market data** to 10 networks (and 11 testnets). 
 
-- [Getting started with API3 data feeds](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+- [Activating a self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+- [Reading a dAPI](https://docs.api3.org/guides/dapis/read-self-funded-dapi/)
+- [API3 data feed reader example](https://github.com/api3dao/data-feed-reader-example)
+
+Or get started now within the API3 Market.
+
 - [API3 Market](https://market.api3.org/)
 
 ### API3 Demo Project: Payments dApp 
@@ -42,7 +47,6 @@ Self-funded dAPIs give DeFi builders access to over **100 forex & crypto dAPIs t
 This tutorial takes users through accessing and integrating dAPIs into a simple payments dApp. This quick start guide should take less than 30mins to follow. 
 
 - [Using dAPIs in a Payments dApp](https://github.com/vanshwassan/dAPI-payments)
-
 
 
 <!--### QRNG - API3's Quantum Random Number Generator
