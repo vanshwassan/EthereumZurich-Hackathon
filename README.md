@@ -37,6 +37,7 @@ Self-funded dAPIs give DeFi builders access to over **100 forex & crypto dAPIs t
 - [Activating a self-funded dAPI](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
 - [Reading a dAPI](https://docs.api3.org/guides/dapis/read-self-funded-dapi/)
 - [API3 data feed reader example](https://github.com/api3dao/data-feed-reader-example)
+- [Using dAPIs on zkSync Era Testnet](https://vanshwassan.medium.com/using-dapis-on-zksync-era-testnet-30f12efdd95f)
 
 Or get started now within the API3 Market.
 
